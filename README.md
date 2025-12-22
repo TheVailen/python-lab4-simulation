@@ -4,10 +4,10 @@
 
 ## 1) Установка проекта
 ```bash
-git clone https://github.com/andreylobachev/python-lab4-simulation
+git clone https://github.com/TheVailen/python-lab4-simulation
 cd python-lab4-simulation
-python3.14 -m venv venv
-source venv/bin/activate
+python -m venv .venv
+source .venv/bin/activate
 pip install -e .
 ```
 ---
